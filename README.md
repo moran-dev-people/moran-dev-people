@@ -17,8 +17,8 @@
 
 <div align="center">
   <a href="https://moran-dev.github.io/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moran-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moran-dev&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=moran-dev-people&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moran-dev-people&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
   ### 📫 How to reach me
@@ -31,7 +31,7 @@
 
   <div align="center">
 <br><p align="centre"><b>Contador de visitantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{moran-dev}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{moran-dev-people}/count.svg" /></p> 
 <br>
 </div>
 
